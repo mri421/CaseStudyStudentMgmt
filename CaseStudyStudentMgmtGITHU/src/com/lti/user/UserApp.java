@@ -34,7 +34,7 @@ case 1:System.out.println("enter stu data");
 
 
 	break;
-case 2:System.out.println("display stu list");
+case 2:System.out.println("display studernt");
 	break;
 case 3:System.out.println("select proper option");
 }
